@@ -15,7 +15,7 @@ public:
 	void speed_update_after_bump(Disc &disc1, Disc &disc2);			//updates the disc's speed a bump with another disc
 	void speed_update_after_wall_bump(Disc &disc, Wall &wall);		// updates the disc's speed after a bump with a disc
 	void check_stepover(Disc disc);                                 //checks if the discs already exits
-    void check_stepover(Wall wall);                                 // checks if disc is stepping over wall on init.
+    	void check_stepover(Wall wall);                                 // checks if disc is stepping over wall on init.
 	void simulate(double t, double dt);								//simualtes the game
 	const DiscLinkedList &getDiscLinkedlist() const;				// returns discs linked list
 	const WallLinkedList &getWallLinkedlist() const;				// returns walls linked list
