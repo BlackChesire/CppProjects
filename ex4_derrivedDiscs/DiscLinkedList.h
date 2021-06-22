@@ -1,5 +1,5 @@
-#ifndef INC_32_EX3_312391774_DISCLINKEDLIST_H
-#define INC_32_EX3_312391774_DISCLINKEDLIST_H
+#ifndef INC_32_EX3_DISCLINKEDLIST_H
+#define INC_32_EX3_DISCLINKEDLIST_H
 #include "Disc.h"
 class DiscLinkedList
 {
@@ -26,4 +26,4 @@ private:
     int count;
 };
 
-#endif //INC_32_EX3_312391774_DISCLINKEDLIST_H
+#endif //INC_32_EX3_DISCLINKEDLIST_H
