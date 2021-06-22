@@ -1,5 +1,5 @@
-#ifndef INC_32_EX3_312391774_WALL_H
-#define INC_32_EX3_312391774_WALL_H
+#ifndef INC_32_WALL_H
+#define INC_32_WALL_H
 
 #include "Vector2D.h"
 class Wall {
@@ -31,4 +31,4 @@ private:
 };
 
 
-#endif //INC_32_EX3_312391774_WALL_H
+#endif //INC_32_EX3_WALL_H
