@@ -1,5 +1,5 @@
-#ifndef INC_32_EX3_312391774_VECTOR2D_H
-#define INC_32_EX3_312391774_VECTOR2D_H
+#ifndef INC_32_EX3_VECTOR2D_H
+#define INC_32_EX3_VECTOR2D_H
 
 class Vector2D
 {
@@ -32,4 +32,4 @@ private:
 
 Vector2D operator*(double scalar, const Vector2D &v2);
 
-#endif //INC_32_EX3_312391774_VECTOR2D_H
+#endif //INC_32_EX3_VECTOR2D_H
