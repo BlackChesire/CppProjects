@@ -1,5 +1,5 @@
-#ifndef INC_32_EX3_312391774_HOCKEY_TABLE_H
-#define INC_32_EX3_312391774_HOCKEY_TABLE_H
+#ifndef INC_32_EX3_HOCKEY_TABLE_H
+#define INC_32_EX3_HOCKEY_TABLE_H
 #include "DiscLinkedList.h"
 #include "WallLinkedList.h"
 #include "Vector2D.h"
@@ -26,4 +26,4 @@ public:
 };
 
 ostream &operator<<(ostream &out, const Hockey_table &table);
-#endif //INC_32_EX3_312391774_HOCKEY_TABLE_H
+#endif //INC_32_EX3_HOCKEY_TABLE_H
