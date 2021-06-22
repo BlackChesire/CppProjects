@@ -1,6 +1,6 @@
 
-#ifndef INC_32_EX3_312391774_DISC_H
-#define INC_32_EX3_312391774_DISC_H
+#ifndef INC_32_EX3_DISC_H
+#define INC_32_EX3_DISC_H
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -49,4 +49,4 @@ protected:
 	bool  is_bumped;
 };
 
-#endif //INC_32_EX3_312391774_DISC_H
+#endif //INC_32_EX3_DISC_H
